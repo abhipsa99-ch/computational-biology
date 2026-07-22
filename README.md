@@ -1,4 +1,4 @@
-# clinical-laboratory-workflows
+# Computational Biology
 Documentation of laboratory workflows, diagnostic techniques, quality control procedures, sample processing, and data management developed during my experience as a Laboratory Assistant at Sanjeevani.
 
 ## Overview
