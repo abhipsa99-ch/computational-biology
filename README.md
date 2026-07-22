@@ -1,91 +1,98 @@
 # Computational Biology
-Documentation of laboratory workflows, diagnostic techniques, quality control procedures, sample processing, and data management developed during my experience as a Laboratory Assistant at Sanjeevani.
 
 ## Overview
 
-This repository highlights the laboratory techniques, diagnostic workflows, and analytical skills developed during my experience as a Laboratory Assistant. It demonstrates practical knowledge of clinical laboratory operations, sample processing, quality assurance, and the use of diagnostic instruments in a healthcare laboratory environment. No patient-identifiable or confidential information is included in this repository.
+This repository documents my practical training in **Computational Biology** and **Bioinformatics**, focusing on DNA and protein sequence analysis using computational tools. It includes practical exercises in gene prediction, sequence alignment, primer design, protein secondary structure prediction, and immunoinformatics. The repository demonstrates the application of widely used bioinformatics software and databases for molecular biology and genomics.
 
 ---
 
-## Responsibilities
+## Objectives
 
-- Processed and prepared biological samples for laboratory analysis.
-- Performed routine clinical laboratory procedures following Standard Operating Procedures (SOPs).
-- Operated and maintained clinical laboratory instruments.
-- Assisted in biochemical, hematological, coagulation, and immunological testing.
-- Ensured compliance with laboratory safety, biosafety, and quality control protocols.
-- Documented laboratory results accurately and maintained laboratory records.
-- Performed routine calibration and quality control checks on laboratory equipment.
-
----
-
-## Laboratory Equipment Used
-
-### Hematology
-- Haemocytometer
-- Centrifuge
-
-### Clinical Biochemistry
-- Semi-Automated Biochemistry Analyzer
-- Fully Automated Biochemistry Analyzer
-- Electrolyte Analyzer
-
-### Coagulation
-- Haemostasis Analyzer
-
-### Immunodiagnostics
-- Chemiluminescence Immunoassay (CLIA) Analyzer
-
-### Analytical Instrumentation
-- High-Performance Liquid Chromatography (HPLC)
+- Analyze DNA and protein sequences using bioinformatics tools.
+- Identify Open Reading Frames (ORFs) and predict genes.
+- Perform sequence similarity searches and genome annotation.
+- Design PCR primers using computational methods.
+- Predict protein secondary structures.
+- Explore immunoinformatics databases for epitope analysis.
+- Develop practical skills in computational biology workflows.
 
 ---
 
-## Laboratory Techniques
+## Practical Exercises
 
-- Sample Collection and Processing
-- Serum and Plasma Separation
-- Centrifugation
-- Quantitative Biochemical Analysis
-- Electrolyte Analysis
-- Coagulation Testing
-- Immunoassay Testing
-- Instrument Calibration
-- Internal Quality Control (IQC)
-- Laboratory Documentation
-- Biosafety and Infection Control
+###  DNA Sequence Analysis
+- Open Reading Frame (ORF) identification
+- Gene prediction
+- Coding sequence (CDS) identification
+- Exon and intron analysis
+- DNA sequence interpretation
+
+###  Sequence Analysis
+- BLAST sequence similarity search
+- Pairwise sequence alignment
+- Dot Plot analysis
+- Genome annotation using Ensembl
+
+###  Primer Design
+- PCR primer design using Primer3
+- Primer optimization based on GC content, melting temperature (Tm), specificity, hairpins, and primer dimers
+
+###  Protein Structure Prediction
+- Secondary structure prediction using the GOR method
+- Secondary structure prediction using the Chou–Fasman method
+- Prediction of α-helices, β-sheets, β-turns, and random coils
+
+###  Immunoinformatics
+- Exploration of the Immune Epitope Database (IEDB)
+- Basic epitope prediction concepts
+- Immunoinformatics resources and applications
 
 ---
 
-## Skills Demonstrated
+## Software & Databases Used
 
-- Clinical Laboratory Operations
-- Diagnostic Testing
-- Laboratory Instrumentation
-- Quality Assurance and Quality Control (QA/QC)
-- Good Laboratory Practice (GLP)
-- Standard Operating Procedures (SOPs)
-- Analytical Problem Solving
-- Data Recording and Documentation
-- Laboratory Safety Compliance
-- Scientific Communication
+- GENSCAN
+- Primer3
+- NCBI BLAST
+- ORF Finder
+- Dotlet (Dot Plot)
+- Ensembl Genome Browser
+- Immune Epitope Database (IEDB)
+- GOR Secondary Structure Prediction Tool
+- Chou–Fasman Prediction Tool
+- NCBI Database
+
+---
+
+## Techniques Used
+
+- DNA sequence analysis
+- ORF identification
+- Gene prediction
+- Sequence alignment
+- Pairwise sequence comparison
+- Dot Plot analysis
+- Genome annotation
+- Primer design
+- Protein sequence analysis
+- Secondary structure prediction
+- Epitope analysis
+- Bioinformatics database exploration
 
 ---
 
 ## Repository Contents
 
-- Laboratory workflow documentation
-- Equipment overviews
-- Standard Operating Procedure (SOP) templates
-- Quality control documentation
-- Sample laboratory data templates
-- Laboratory safety guidelines
+- Practical reports
+- Screenshots of software outputs
+- Supporting documentation
+- Presentation Slides
 
 ---
 
-## Disclaimer
+## Learning Outcomes
 
-This repository is intended for educational and professional portfolio purposes only. It does not contain confidential, proprietary, or patient-identifiable information.
+Through these practical exercises, I gained hands-on experience in computational biology by applying bioinformatics tools for sequence analysis, gene prediction, primer design, protein secondary structure prediction, and immunoinformatics. This repository demonstrates practical knowledge of computational techniques commonly used in genomics, proteomics, and molecular biology research.
 
 ---
 
